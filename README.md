@@ -20,7 +20,7 @@ Liste des composants :
 * 1 alimentation USB
 * 1 boite en bois
 
-![alt text](schema.png)
+![alt text](assets/schema.png)
 
 # Montage
 
@@ -32,6 +32,9 @@ Les boutons sont également posés sur le dessus de la boite.
 
 Enfin de petits trous sont percés au niveau du buzzer pour ne pas étouffer le son. 
 
-*photo* 
+![alt text](assets/theBox.jpg)
+
+![alt text](assets/insideTheBox.png)
 
 # Code
+[Le code Arduino](StarWarsMusicBox/StarWarsMusicBox.ino)
